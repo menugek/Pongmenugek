@@ -1,0 +1,34 @@
+Initialize engine version: 4.5.2f1 (9abb1b59b47c)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 670 (ID=0x1189)
+    Vendor:   NVIDIA
+    VRAM:     1990 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Kevin\Pictures\Documents\New Unity Project\Pong_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Kevin\Pictures\Documents\New Unity Project\Pong_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Kevin\Pictures\Documents\New Unity Project\Pong_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Kevin\Pictures\Documents\New Unity Project\Pong_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.047 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 0.303848 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 106.
+Total: 0.905141 ms (FindLiveObjects: 0.008149 ms CreateObjectMapping: 0.010768 ms MarkObjects: 0.122528 ms  DeleteObjects: 0.004656 ms)
+
+UnloadTime: 0.337026 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 158.
+Total: 0.927842 ms (FindLiveObjects: 0.013096 ms CreateObjectMapping: 0.011059 ms MarkObjects: 0.158909 ms  DeleteObjects: 0.004947 ms)
+
+UnloadTime: 0.430160 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 105.
+Total: 7.113364 ms (FindLiveObjects: 0.010768 ms CreateObjectMapping: 0.011350 ms MarkObjects: 0.160364 ms  DeleteObjects: 6.214334 ms)
+
